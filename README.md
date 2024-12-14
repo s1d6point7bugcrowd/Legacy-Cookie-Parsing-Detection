@@ -1,4 +1,4 @@
-# Legacy Cookie Parsing Detection
+# Legacy Cookie Parsing Detection       https://github.com/projectdiscovery/nuclei-templates/pull/11363
 
 ## Overview
 
